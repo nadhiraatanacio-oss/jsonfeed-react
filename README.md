@@ -19,3 +19,4 @@ Luego abre http://localhost:5173
 
 ## Links
 - Deploy: https://jsonfeed-react-qdgr.vercel.app/
+- Video: https://youtu.be/oQYkAFC8ou0?si=omjm8ymgw_bswFQo
