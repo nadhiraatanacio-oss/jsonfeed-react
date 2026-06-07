@@ -17,3 +17,5 @@ npm run dev
 
 Luego abre http://localhost:5173
 
+## Links
+- Deploy: https://jsonfeed-react-qdgr.vercel.app/
